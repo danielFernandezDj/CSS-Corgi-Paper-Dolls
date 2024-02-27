@@ -14,9 +14,9 @@
     position: fixed;
 }
 
-.luna {
-    position: relative;
-    left: 13.5em;
+.sticky { 
+    overflow: auto;
+    width: 600px;
 }
 
 .top-hat {
